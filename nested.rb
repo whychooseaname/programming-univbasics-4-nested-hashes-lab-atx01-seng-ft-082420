@@ -97,9 +97,9 @@ def changing_alan
         :languages => ["C"]
       }
     }
-puts alans_new_info
+programmer_hash[:alan_kay]={:known_for=>"GUI"}
 end
-puts alans_new_info
+
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array
   # return the entire updated hash

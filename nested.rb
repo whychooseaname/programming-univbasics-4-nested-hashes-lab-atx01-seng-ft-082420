@@ -99,7 +99,7 @@ def changing_alan
     }
 puts alans_new_info
 end
-
+puts alans_new_info
 def adding_to_dennis
   # add "Assembly" to Dennis Ritchie's languages array
   # return the entire updated hash
